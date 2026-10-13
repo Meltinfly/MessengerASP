@@ -23,7 +23,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/Fl1ckerxD/MessengerASP.git
+git clone https://github.com/Meltinfly/MessengerASP.git
 cd MessengerASP
 ```
 
